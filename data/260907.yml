@@ -5,13 +5,13 @@ about:
   head: 144048d
   archived: false
   latestVersion: "cedar-policy-cli-v4.12.0"
-  collectedAt: 2026-09-07T05:16:50Z
+  collectedAt: 2026-09-07T19:07:47Z
 timeline:
   created: 2023-04-25
   lastCommit: 2026-09-03
   lastRelease: 2026-07-28
 popularity:
-  star: 1711
+  star: 1712
   watcher: 15
   fork: 171
   release: 79
@@ -82,7 +82,7 @@ total:
   commit: 1508
 ---
 path: /home/runner/.x-repo/github.com/cedar-policy/cedar
-collectedAt: 2026-09-07T05:16:59Z
+collectedAt: 2026-09-07T19:07:51Z
 loc:
   Rust:
     code: 177488
@@ -396,7 +396,7 @@ checks:
       - 'Info: found contributions from: CVC4, Linbasta, SMT-COMP, amazon web services, aws, bytedeco, cedar-policy, cloud-native-nordics, code metal, compiler-explorer, correctcomputation, dothemath-se, dotkom, kframework, kubernetes, kubernetes @cncf @upbound, larsendigital, llvm, mainmatter, mandolin consulting ab, montana state university, racklet, rook, secure-foundations, strawberry-graphql, synduce, verifiedpermissions'
 ---
 eget:
-  collectedAt: 2026-09-07T05:17:01+00:00
+  collectedAt: 2026-09-07T19:07:51+00:00
   platform:
     darwin/arm64:
       name:  null
