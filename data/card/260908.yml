@@ -5,7 +5,7 @@ about:
   head: 144048d
   archived: false
   latestVersion: "cedar-policy-cli-v4.12.0"
-  collectedAt: 2026-09-08T02:32:27Z
+  collectedAt: 2026-09-08T05:13:16Z
 timeline:
   created: 2023-04-25
   lastCommit: 2026-09-03
@@ -82,7 +82,7 @@ total:
   commit: 1508
 ---
 path: /home/runner/.x-repo/github.com/cedar-policy/cedar
-collectedAt: 2026-09-08T02:32:31Z
+collectedAt: 2026-09-08T05:13:21Z
 loc:
   Rust:
     code: 177488
