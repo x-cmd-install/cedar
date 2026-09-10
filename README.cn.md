@@ -12,16 +12,16 @@ Implementation of the Cedar Policy Language
 x install cedar
 ```
 
-## 代码规模
+## 代码洞察
 
-合计: **183,372** 行代码（覆盖前 5 种语言、共 **439** 个文件）。
+合计: **185,487** 行代码（覆盖前 5 种语言、共 **440** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 177,168 | 10,838 | 15,625 | 347 |
+| Rust | 179,278 | 10,964 | 15,748 | 348 |
 | Json | 5,076 | 0 | 1 | 78 |
 | Toml | 528 | 48 | 85 | 11 |
-| Protobuf | 259 | 69 | 48 | 2 |
+| Protobuf | 264 | 69 | 49 | 2 |
 | Python | 208 | 1 | 47 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -32,7 +32,7 @@ x install cedar
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install cedar
 
 ## 流行度
 
-- **Star**: 1,726 · **Fork**: 171 · **开放 issue**: 522 · **贡献者**: 65
+- **Star**: 1,727 · **Fork**: 171 · **开放 issue**: 522 · **贡献者**: 65
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1841 · **开放 PR**: 21 · **已关闭 issue**: 368 · **开放 issue**: 154 · **提交数**: 1513
+- **发布数**: 79 · **已合并 PR**: 1842 · **开放 PR**: 21 · **已关闭 issue**: 368 · **开放 issue**: 154 · **提交数**: 1514
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 31 | 8 | 3 | 4 | 29 |
-| last60d | 2026-07-12 | 3 | 58 | 11 | 4 | 10 | 54 |
-| 90d | 2026-06-12 | 6 | 113 | 11 | 7 | 12 | 104 |
-| last180d | 2026-03-14 | 12 | 259 | 14 | 15 | 19 | 231 |
-| 360d | 2025-09-15 | 39 | 601 | 17 | 34 | 44 | 493 |
-| last720d | 2024-09-20 | 52 | 1031 | 21 | 96 | 90 | 871 |
+| 30d | 2026-08-11 | 0 | 32 | 8 | 3 | 4 | 30 |
+| last60d | 2026-07-12 | 3 | 59 | 11 | 4 | 10 | 55 |
+| 90d | 2026-06-12 | 6 | 114 | 11 | 7 | 12 | 105 |
+| last180d | 2026-03-14 | 12 | 260 | 14 | 15 | 19 | 232 |
+| 360d | 2025-09-15 | 39 | 602 | 17 | 34 | 44 | 494 |
+| last720d | 2024-09-20 | 52 | 1032 | 21 | 96 | 90 | 872 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ cedar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:45:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:04:03Z._
