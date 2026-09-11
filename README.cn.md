@@ -32,7 +32,7 @@ x install cedar
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -57,12 +57,12 @@ x install cedar
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 32 | 8 | 3 | 4 | 30 |
-| last60d | 2026-07-12 | 3 | 59 | 11 | 4 | 10 | 55 |
-| 90d | 2026-06-12 | 6 | 114 | 11 | 7 | 12 | 105 |
-| last180d | 2026-03-14 | 12 | 260 | 14 | 15 | 19 | 232 |
-| 360d | 2025-09-15 | 39 | 602 | 17 | 34 | 44 | 494 |
-| last720d | 2024-09-20 | 52 | 1032 | 21 | 96 | 90 | 872 |
+| 30d | 2026-08-12 | 0 | 30 | 8 | 3 | 4 | 30 |
+| last60d | 2026-07-13 | 3 | 58 | 11 | 4 | 10 | 55 |
+| 90d | 2026-06-13 | 6 | 114 | 11 | 7 | 12 | 105 |
+| last180d | 2026-03-15 | 12 | 260 | 14 | 15 | 19 | 232 |
+| 360d | 2025-09-16 | 39 | 602 | 17 | 30 | 42 | 494 |
+| last720d | 2024-09-21 | 52 | 1032 | 21 | 96 | 90 | 869 |
 
 ## 发行版状态
 
@@ -81,4 +81,4 @@ cedar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T23:04:03Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T05:34:39Z._
