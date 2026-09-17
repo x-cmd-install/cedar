@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cedar-policy-cli-v4.13.0` (2026-09-15)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-16
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,736 · **Forks**: 172 · **Open issues**: 523 · **Contributors**: 65
+- **Stars**: 1,737 · **Forks**: 172 · **Open issues**: 523 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1847 · **Open PRs**: 23 · **Closed issues**: 368 · **Open issues**: 155 · **Commits**: 1517
+- **Releases**: 82 · **Merged PRs**: 1850 · **Open PRs**: 21 · **Closed issues**: 369 · **Open issues**: 154 · **Commits**: 1520
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 32 | 7 | 3 | 5 | 26 |
-| last60d | 2026-07-18 | 6 | 59 | 12 | 4 | 11 | 54 |
-| 90d | 2026-06-18 | 9 | 110 | 13 | 7 | 13 | 99 |
-| last180d | 2026-03-20 | 15 | 255 | 16 | 13 | 20 | 224 |
-| 360d | 2025-09-21 | 42 | 602 | 19 | 29 | 42 | 486 |
-| last720d | 2024-09-26 | 54 | 1027 | 23 | 93 | 90 | 864 |
+| 30d | 2026-08-18 | 3 | 34 | 5 | 3 | 4 | 29 |
+| last60d | 2026-07-19 | 6 | 62 | 10 | 4 | 11 | 57 |
+| 90d | 2026-06-19 | 9 | 110 | 11 | 7 | 12 | 102 |
+| last180d | 2026-03-21 | 15 | 258 | 14 | 13 | 20 | 227 |
+| 360d | 2025-09-22 | 42 | 604 | 17 | 30 | 41 | 489 |
+| last720d | 2024-09-27 | 54 | 1027 | 21 | 94 | 88 | 866 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:39:32Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:43:17Z._
