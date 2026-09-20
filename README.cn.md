@@ -4,7 +4,7 @@
 
 Implementation of the Cedar Policy Language
 
-![cedar](https://repo.x-cmd.io/cedar.svg?lang=zh)
+[![x-cmd/install — cedar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cedar.svg?lang=zh)](https://x-cmd.com/install/cedar)
 
 ## 安装
 
@@ -52,18 +52,18 @@ x install cedar
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 1852 · **开放 PR**: 21 · **已关闭 issue**: 370 · **开放 issue**: 153 · **提交数**: 1522
+- **发布数**: 82 · **已合并 PR**: 1853 · **开放 PR**: 21 · **已关闭 issue**: 370 · **开放 issue**: 153 · **提交数**: 1522
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 31 | 5 | 3 | 4 | 31 |
-| last60d | 2026-07-20 | 6 | 64 | 10 | 4 | 11 | 59 |
-| 90d | 2026-06-20 | 9 | 112 | 11 | 7 | 12 | 104 |
-| last180d | 2026-03-22 | 15 | 260 | 14 | 13 | 20 | 229 |
-| 360d | 2025-09-23 | 42 | 602 | 17 | 29 | 40 | 491 |
-| last720d | 2024-09-28 | 54 | 1029 | 21 | 95 | 87 | 865 |
+| 30d | 2026-08-21 | 3 | 29 | 5 | 3 | 3 | 23 |
+| last60d | 2026-07-22 | 6 | 60 | 10 | 4 | 11 | 44 |
+| 90d | 2026-06-22 | 9 | 108 | 11 | 7 | 12 | 90 |
+| last180d | 2026-03-24 | 15 | 254 | 14 | 12 | 20 | 219 |
+| 360d | 2025-09-25 | 42 | 601 | 17 | 28 | 40 | 477 |
+| last720d | 2024-09-30 | 54 | 1022 | 21 | 95 | 87 | 865 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ cedar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:28:16Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:38:07Z._

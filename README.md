@@ -4,7 +4,7 @@
 
 Implementation of the Cedar Policy Language
 
-![cedar](https://repo.x-cmd.io/cedar.svg)
+[![x-cmd/install — cedar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cedar.svg)](https://x-cmd.com/install/cedar)
 
 ## Install
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1852 · **Open PRs**: 21 · **Closed issues**: 370 · **Open issues**: 153 · **Commits**: 1522
+- **Releases**: 82 · **Merged PRs**: 1853 · **Open PRs**: 21 · **Closed issues**: 370 · **Open issues**: 153 · **Commits**: 1522
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 31 | 5 | 3 | 4 | 31 |
-| last60d | 2026-07-20 | 6 | 64 | 10 | 4 | 11 | 59 |
-| 90d | 2026-06-20 | 9 | 112 | 11 | 7 | 12 | 104 |
-| last180d | 2026-03-22 | 15 | 260 | 14 | 13 | 20 | 229 |
-| 360d | 2025-09-23 | 42 | 602 | 17 | 29 | 40 | 491 |
-| last720d | 2024-09-28 | 54 | 1029 | 21 | 95 | 87 | 865 |
+| 30d | 2026-08-21 | 3 | 29 | 5 | 3 | 3 | 23 |
+| last60d | 2026-07-22 | 6 | 60 | 10 | 4 | 11 | 44 |
+| 90d | 2026-06-22 | 9 | 108 | 11 | 7 | 12 | 90 |
+| last180d | 2026-03-24 | 15 | 254 | 14 | 12 | 20 | 219 |
+| 360d | 2025-09-25 | 42 | 601 | 17 | 28 | 40 | 477 |
+| last720d | 2024-09-30 | 54 | 1022 | 21 | 95 | 87 | 865 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:28:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:06Z._
