@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,749 · **Forks**: 174 · **Open issues**: 527 · **Contributors**: 66
+- **Stars**: 1,752 · **Forks**: 174 · **Open issues**: 527 · **Contributors**: 66
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 27 | 7 | 1 | 6 | 23 |
-| last60d | 2026-07-29 | 3 | 53 | 8 | 3 | 14 | 51 |
-| 90d | 2026-06-29 | 6 | 104 | 9 | 6 | 15 | 91 |
-| last180d | 2026-03-31 | 15 | 251 | 11 | 13 | 21 | 210 |
-| 360d | 2025-10-02 | 42 | 594 | 13 | 27 | 41 | 480 |
-| last720d | 2024-10-07 | 53 | 1017 | 18 | 95 | 87 | 858 |
+| 30d | 2026-08-29 | 3 | 27 | 7 | 1 | 6 | 23 |
+| last60d | 2026-07-30 | 3 | 53 | 8 | 3 | 14 | 51 |
+| 90d | 2026-06-30 | 6 | 104 | 9 | 6 | 15 | 91 |
+| last180d | 2026-04-01 | 15 | 242 | 11 | 13 | 21 | 210 |
+| 360d | 2025-10-03 | 42 | 592 | 13 | 27 | 41 | 480 |
+| last720d | 2024-10-08 | 52 | 1014 | 18 | 95 | 87 | 855 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:54:57Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:02:59Z._
