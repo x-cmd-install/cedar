@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2856560,
       "digest": "sha256:53c3ddc467519a3371919a92da1167fe143d9eb8efe0b29fdde8237fa0fe9cae",
-      "download_count": 291,
+      "download_count": 298,
       "created_at": "2026-09-15T17:33:54Z",
       "updated_at": "2026-09-15T17:33:54Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:4eb393376f7879ac8ffd1b24792d497c0ed40f30a675d9347c47468e3ae44fc5",
-      "download_count": 35,
+      "download_count": 41,
       "created_at": "2026-09-15T17:33:54Z",
       "updated_at": "2026-09-15T17:33:54Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 117,
       "digest": "sha256:2168f0215cfdaad97d9b3f88ded0d668ae63f8660930e1c3063b5753a5f8be77",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-09-15T17:33:54Z",
       "updated_at": "2026-09-15T17:33:54Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3555692,
       "digest": "sha256:0ce877eed8a3b4f35e93f06a177960e5dcd75274d084880b0e72044f5306c2e1",
-      "download_count": 44,
+      "download_count": 60,
       "created_at": "2026-09-15T17:43:16Z",
       "updated_at": "2026-09-15T17:43:17Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5746638,
       "digest": "sha256:96d91a32849b73d4e2d010dd4b78685897cd9d8baa5c2ce19b660c8db43919a9",
-      "download_count": 26,
+      "download_count": 42,
       "created_at": "2026-09-15T17:46:08Z",
       "updated_at": "2026-09-15T17:46:09Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4112388,
       "digest": "sha256:deb3a8340e357b871eb7c3e2a701f9a4f2e2f8404ec249740b1ed9eef5a0aefe",
-      "download_count": 1012,
+      "download_count": 1485,
       "created_at": "2026-09-15T17:50:19Z",
       "updated_at": "2026-09-15T17:50:19Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 128,
       "digest": "sha256:1bc9a6b4399e1e7e6b635e003dccba7efe9fde78f08b8d42a61a3396734a9f07",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-09-15T17:50:19Z",
       "updated_at": "2026-09-15T17:50:19Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 22527,
       "digest": "sha256:4c1fd4466bb6aa72f3e770079afb1c3881dff38eabb9e34484849ba9a8a1b3a9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-15T17:33:54Z",
       "updated_at": "2026-09-15T17:33:54Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-installer.ps1"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 54446,
       "digest": "sha256:b049bed8d8d6815c476997668cd3cb4431854ae31eea230e4b74a0d7ec03e1d9",
-      "download_count": 71,
+      "download_count": 73,
       "created_at": "2026-09-15T17:33:54Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-installer.sh"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:4c170e7510e48de31bcfd4ea53fe33640fef48621c87cb042de047153de5e6ab",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-09-15T17:33:55Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-x86_64-apple-darwin.tar.xz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4981476,
       "digest": "sha256:93eb36eff9469f09a25293ec07349a7554187b61353bd05c193c59e99572a138",
-      "download_count": 161,
+      "download_count": 166,
       "created_at": "2026-09-15T17:33:55Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:1d0933c8243bb3237377e3818f56ad36ad2feb5c2c02dd8f399f2c7b4c951f15",
-      "download_count": 43,
+      "download_count": 46,
       "created_at": "2026-09-15T17:33:55Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 3315068,
       "digest": "sha256:23d358ef38edad8ade629a09f6a7359ecbd1761c9ff82e9fd0a5c5bce36b8c79",
-      "download_count": 2465,
+      "download_count": 3445,
       "created_at": "2026-09-15T17:33:55Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 116,
       "digest": "sha256:925ecc37cb6106af035d83270c8ed16d45cd392af803f3f027b3202e989ee6d3",
-      "download_count": 302,
+      "download_count": 308,
       "created_at": "2026-09-15T17:33:55Z",
       "updated_at": "2026-09-15T17:33:55Z",
       "browser_download_url": "https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.13.0/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz.sha256"
