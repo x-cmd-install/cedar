@@ -32,7 +32,7 @@ x install cedar
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install cedar
 
 ## 流行度
 
-- **Star**: 1,780 · **Fork**: 178 · **开放 issue**: 535 · **贡献者**: 67
+- **Star**: 1,780 · **Fork**: 178 · **开放 issue**: 536 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 1872 · **开放 PR**: 23 · **已关闭 issue**: 384 · **开放 issue**: 151 · **提交数**: 1540
+- **发布数**: 82 · **已合并 PR**: 1872 · **开放 PR**: 24 · **已关闭 issue**: 384 · **开放 issue**: 152 · **提交数**: 1540
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 21 | 10 | 0 | 12 | 18 |
-| last60d | 2026-08-14 | 3 | 54 | 12 | 4 | 16 | 53 |
-| 90d | 2026-07-15 | 6 | 84 | 14 | 6 | 21 | 80 |
-| last180d | 2026-04-16 | 15 | 217 | 16 | 12 | 27 | 196 |
-| 360d | 2025-10-18 | 39 | 576 | 18 | 27 | 47 | 476 |
-| last720d | 2024-10-23 | 51 | 1015 | 23 | 94 | 88 | 856 |
+| 30d | 2026-09-14 | 3 | 19 | 11 | 0 | 13 | 18 |
+| last60d | 2026-08-15 | 3 | 54 | 13 | 4 | 17 | 53 |
+| 90d | 2026-07-16 | 6 | 84 | 15 | 6 | 22 | 80 |
+| last180d | 2026-04-17 | 15 | 217 | 17 | 12 | 28 | 196 |
+| 360d | 2025-10-19 | 39 | 576 | 19 | 27 | 48 | 476 |
+| last720d | 2024-10-24 | 51 | 1013 | 24 | 93 | 89 | 854 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ cedar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:25:22Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:46:13Z._

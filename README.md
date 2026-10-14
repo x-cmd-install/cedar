@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,780 · **Forks**: 178 · **Open issues**: 535 · **Contributors**: 67
+- **Stars**: 1,780 · **Forks**: 178 · **Open issues**: 536 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 1872 · **Open PRs**: 23 · **Closed issues**: 384 · **Open issues**: 151 · **Commits**: 1540
+- **Releases**: 82 · **Merged PRs**: 1872 · **Open PRs**: 24 · **Closed issues**: 384 · **Open issues**: 152 · **Commits**: 1540
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 21 | 10 | 0 | 12 | 18 |
-| last60d | 2026-08-14 | 3 | 54 | 12 | 4 | 16 | 53 |
-| 90d | 2026-07-15 | 6 | 84 | 14 | 6 | 21 | 80 |
-| last180d | 2026-04-16 | 15 | 217 | 16 | 12 | 27 | 196 |
-| 360d | 2025-10-18 | 39 | 576 | 18 | 27 | 47 | 476 |
-| last720d | 2024-10-23 | 51 | 1015 | 23 | 94 | 88 | 856 |
+| 30d | 2026-09-14 | 3 | 19 | 11 | 0 | 13 | 18 |
+| last60d | 2026-08-15 | 3 | 54 | 13 | 4 | 17 | 53 |
+| 90d | 2026-07-16 | 6 | 84 | 15 | 6 | 22 | 80 |
+| last180d | 2026-04-17 | 15 | 217 | 17 | 12 | 28 | 196 |
+| 360d | 2025-10-19 | 39 | 576 | 19 | 27 | 48 | 476 |
+| last720d | 2024-10-24 | 51 | 1013 | 24 | 93 | 89 | 854 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:25:22Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:46:13Z._
