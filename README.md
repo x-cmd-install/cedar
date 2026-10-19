@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,792 · **Forks**: 180 · **Open issues**: 537 · **Contributors**: 68
+- **Stars**: 1,794 · **Forks**: 181 · **Open issues**: 537 · **Contributors**: 68
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 3 | 18 | 16 | 0 | 14 | 21 |
-| last60d | 2026-08-19 | 6 | 53 | 18 | 4 | 17 | 56 |
-| 90d | 2026-07-20 | 9 | 90 | 19 | 6 | 23 | 83 |
-| last180d | 2026-04-21 | 18 | 222 | 22 | 12 | 29 | 199 |
-| 360d | 2025-10-23 | 42 | 575 | 24 | 26 | 48 | 479 |
-| last720d | 2024-10-28 | 54 | 1018 | 29 | 92 | 89 | 854 |
+| 30d | 2026-09-19 | 3 | 18 | 16 | 0 | 14 | 12 |
+| last60d | 2026-08-20 | 6 | 52 | 18 | 4 | 16 | 46 |
+| 90d | 2026-07-21 | 9 | 88 | 19 | 6 | 23 | 71 |
+| last180d | 2026-04-22 | 18 | 219 | 22 | 12 | 29 | 192 |
+| 360d | 2025-10-24 | 42 | 573 | 24 | 26 | 48 | 460 |
+| last720d | 2024-10-29 | 54 | 1015 | 29 | 92 | 89 | 853 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:01:39Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:10:15Z._
