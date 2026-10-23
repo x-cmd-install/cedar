@@ -14,11 +14,11 @@ x install cedar
 
 ## Code insight
 
-Total: **193,392** lines of code across **446** files in the top 5 languages.
+Total: **193,642** lines of code across **446** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 187,173 | 11,404 | 16,271 | 354 |
+| Rust | 187,423 | 11,412 | 16,291 | 354 |
 | Json | 5,076 | 0 | 1 | 78 |
 | Toml | 536 | 48 | 86 | 11 |
 | Protobuf | 266 | 74 | 49 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cedar-policy-cli-v4.14.0` (2026-10-17)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,804 · **Forks**: 185 · **Open issues**: 541 · **Contributors**: 68
+- **Stars**: 1,809 · **Forks**: 185 · **Open issues**: 541 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 1885 · **Open PRs**: 34 · **Closed issues**: 386 · **Open issues**: 155 · **Commits**: 1550
+- **Releases**: 85 · **Merged PRs**: 1887 · **Open PRs**: 33 · **Closed issues**: 388 · **Open issues**: 153 · **Commits**: 1552
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 25 | 20 | 1 | 16 | 19 |
-| last60d | 2026-08-23 | 6 | 57 | 23 | 5 | 19 | 53 |
-| 90d | 2026-07-24 | 9 | 88 | 24 | 8 | 25 | 78 |
-| last180d | 2026-04-25 | 17 | 223 | 27 | 14 | 30 | 199 |
-| 360d | 2025-10-27 | 42 | 575 | 29 | 28 | 50 | 467 |
-| last720d | 2024-11-01 | 54 | 1020 | 34 | 93 | 91 | 855 |
+| 30d | 2026-09-23 | 3 | 25 | 19 | 1 | 14 | 21 |
+| last60d | 2026-08-24 | 6 | 56 | 22 | 5 | 19 | 55 |
+| 90d | 2026-07-25 | 9 | 90 | 23 | 8 | 25 | 80 |
+| last180d | 2026-04-26 | 17 | 225 | 26 | 14 | 30 | 201 |
+| 360d | 2025-10-28 | 42 | 575 | 28 | 28 | 48 | 469 |
+| last720d | 2024-11-02 | 54 | 1022 | 33 | 94 | 90 | 857 |
 
 ## Release assets
 
@@ -96,6 +96,14 @@ Lowest-scoring checks:
 | [source.tar.gz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/source.tar.gz) | 1.4 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **6** distros on [repology.org](https://repology.org/project/cedar). **1** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `4.13.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cedar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +113,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:12:59Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:17:05Z._
