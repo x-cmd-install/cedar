@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,825 · **Forks**: 187 · **Open issues**: 545 · **Contributors**: 69
+- **Stars**: 1,827 · **Forks**: 187 · **Open issues**: 545 · **Contributors**: 69
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 36 | 21 | 3 | 12 | 31 |
-| last60d | 2026-09-01 | 6 | 64 | 26 | 4 | 20 | 60 |
-| 90d | 2026-08-02 | 6 | 95 | 28 | 7 | 27 | 85 |
-| last180d | 2026-05-04 | 17 | 236 | 31 | 16 | 32 | 209 |
-| 360d | 2025-11-05 | 42 | 576 | 33 | 31 | 49 | 472 |
-| last720d | 2024-11-10 | 54 | 1032 | 38 | 96 | 90 | 864 |
+| 30d | 2026-10-02 | 3 | 36 | 19 | 3 | 11 | 31 |
+| last60d | 2026-09-02 | 6 | 62 | 25 | 4 | 20 | 60 |
+| 90d | 2026-08-03 | 6 | 95 | 28 | 7 | 27 | 85 |
+| last180d | 2026-05-05 | 17 | 234 | 31 | 16 | 32 | 209 |
+| 360d | 2025-11-06 | 42 | 575 | 33 | 31 | 49 | 472 |
+| last720d | 2024-11-11 | 54 | 1028 | 38 | 96 | 90 | 864 |
 
 ## Release assets
 
@@ -102,7 +102,7 @@ Reported by **6** distros on [repology.org](https://repology.org/project/cedar).
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `4.13.0` | ⚠️ outdated |
+| Nix unstable | `4.14.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -113,4 +113,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:14:37Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:39:48Z._
