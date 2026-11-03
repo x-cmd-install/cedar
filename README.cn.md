@@ -14,11 +14,11 @@ x install cedar
 
 ## 代码洞察
 
-合计: **194,104** 行代码（覆盖前 5 种语言、共 **446** 个文件）。
+合计: **194,235** 行代码（覆盖前 5 种语言、共 **446** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 187,589 | 11,431 | 16,311 | 354 |
+| Rust | 187,720 | 11,431 | 16,318 | 354 |
 | Json | 5,076 | 0 | 1 | 78 |
 | Toml | 536 | 48 | 86 | 11 |
 | Yaml | 296 | 0 | 2 | 1 |
@@ -32,7 +32,7 @@ x install cedar
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,59 +42,59 @@ x install cedar
 
 ## 发布
 
-- **最新版本**: `cedar-policy-cli-v4.14.0` (2026-10-17)
-- **最近提交**: 2026-10-30
+- **最新版本**: `cedar-policy-cli-v4.14.1` (2026-11-02)
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 1,830 · **Fork**: 187 · **开放 issue**: 545 · **贡献者**: 69
+- **Star**: 1,835 · **Fork**: 187 · **开放 issue**: 546 · **贡献者**: 70
 
 ## 累计统计
 
-- **发布数**: 85 · **已合并 PR**: 1904 · **开放 PR**: 38 · **已关闭 issue**: 391 · **开放 issue**: 154 · **提交数**: 1565
+- **发布数**: 88 · **已合并 PR**: 1908 · **开放 PR**: 36 · **已关闭 issue**: 392 · **开放 issue**: 154 · **提交数**: 1569
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 36 | 19 | 3 | 11 | 28 |
-| last60d | 2026-09-03 | 6 | 60 | 25 | 4 | 20 | 55 |
-| 90d | 2026-08-04 | 6 | 95 | 28 | 7 | 26 | 82 |
-| last180d | 2026-05-06 | 17 | 233 | 31 | 16 | 32 | 198 |
-| 360d | 2025-11-07 | 42 | 574 | 33 | 31 | 49 | 464 |
-| last720d | 2024-11-12 | 53 | 1028 | 38 | 96 | 89 | 862 |
+| 30d | 2026-10-04 | 6 | 40 | 17 | 3 | 12 | 32 |
+| last60d | 2026-09-04 | 9 | 64 | 23 | 4 | 21 | 59 |
+| 90d | 2026-08-05 | 9 | 97 | 26 | 7 | 26 | 86 |
+| last180d | 2026-05-07 | 20 | 235 | 29 | 16 | 33 | 202 |
+| 360d | 2025-11-08 | 45 | 577 | 31 | 32 | 49 | 468 |
+| last720d | 2024-11-13 | 56 | 1029 | 36 | 96 | 89 | 866 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cedar-policy-cli-aarch64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-aarch64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/arm64` |
-| [cedar-policy-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-aarch64-apple-darwin.tar.xz.sha256) | 112 B | `native/darwin/arm64` |
-| [cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz) | 3.0 MiB | `native/linux/arm64/glibc` |
-| [cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 117 B | `native/linux/arm64/glibc` |
-| [cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz) | 3.4 MiB | `native/darwin/arm64` |
-| [cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz.sha256) | 124 B | `native/darwin/arm64` |
-| [cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz) | 3.7 MiB | `native/linux/arm64/glibc` |
-| [cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz.sha256) | 129 B | `native/linux/arm64/glibc` |
-| [cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz) | 3.7 MiB | `native/darwin/x64` |
-| [cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz.sha256) | 123 B | `native/darwin/x64` |
-| [cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip) | 5.6 MiB | `native/win/x64` |
-| [cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip.sha256) | 123 B | `native/win/x64` |
-| [cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz) | 4.0 MiB | `native/linux/x64/glibc` |
-| [cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz.sha256) | 128 B | `native/linux/x64/glibc` |
-| [cedar-policy-cli-installer.ps1](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-installer.ps1) | 22.0 KiB | `other` |
-| [cedar-policy-cli-installer.sh](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-installer.sh) | 53.2 KiB | `other` |
-| [cedar-policy-cli-x86_64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-apple-darwin.tar.xz) | 3.0 MiB | `native/darwin/x64` |
-| [cedar-policy-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-apple-darwin.tar.xz.sha256) | 111 B | `native/darwin/x64` |
-| [cedar-policy-cli-x86_64-pc-windows-msvc.zip](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip) | 4.8 MiB | `native/win/x64` |
-| [cedar-policy-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-pc-windows-msvc.zip.sha256) | 111 B | `native/win/x64` |
-| [cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz) | 3.2 MiB | `native/linux/x64/glibc` |
-| [cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 116 B | `native/linux/x64/glibc` |
-| [dist-manifest.json](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/dist-manifest.json) | 21.4 KiB | `other` |
-| [sha256.sum](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/sha256.sum) | 643 B | `other` |
-| [source.tar.gz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/source.tar.gz) | 1.4 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.0/source.tar.gz.sha256) | 81 B | `other` |
+| [cedar-policy-cli-aarch64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-aarch64-apple-darwin.tar.xz) | 2.8 MiB | `native/darwin/arm64` |
+| [cedar-policy-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-aarch64-apple-darwin.tar.xz.sha256) | 112 B | `native/darwin/arm64` |
+| [cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz) | 3.0 MiB | `native/linux/arm64/glibc` |
+| [cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 117 B | `native/linux/arm64/glibc` |
+| [cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz) | 3.4 MiB | `native/darwin/arm64` |
+| [cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-aarch64-apple-darwin.tar.xz.sha256) | 124 B | `native/darwin/arm64` |
+| [cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz) | 3.7 MiB | `native/linux/arm64/glibc` |
+| [cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-aarch64-unknown-linux-gnu.tar.xz.sha256) | 129 B | `native/linux/arm64/glibc` |
+| [cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz) | 3.7 MiB | `native/darwin/x64` |
+| [cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-apple-darwin.tar.xz.sha256) | 123 B | `native/darwin/x64` |
+| [cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip) | 5.6 MiB | `native/win/x64` |
+| [cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-pc-windows-msvc.zip.sha256) | 123 B | `native/win/x64` |
+| [cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz) | 4.0 MiB | `native/linux/x64/glibc` |
+| [cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-experimental-x86_64-unknown-linux-gnu.tar.xz.sha256) | 128 B | `native/linux/x64/glibc` |
+| [cedar-policy-cli-installer.ps1](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-installer.ps1) | 22.0 KiB | `other` |
+| [cedar-policy-cli-installer.sh](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-installer.sh) | 53.2 KiB | `other` |
+| [cedar-policy-cli-x86_64-apple-darwin.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-apple-darwin.tar.xz) | 3.0 MiB | `native/darwin/x64` |
+| [cedar-policy-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-apple-darwin.tar.xz.sha256) | 111 B | `native/darwin/x64` |
+| [cedar-policy-cli-x86_64-pc-windows-msvc.zip](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-pc-windows-msvc.zip) | 4.8 MiB | `native/win/x64` |
+| [cedar-policy-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-pc-windows-msvc.zip.sha256) | 111 B | `native/win/x64` |
+| [cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz) | 3.2 MiB | `native/linux/x64/glibc` |
+| [cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/cedar-policy-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 116 B | `native/linux/x64/glibc` |
+| [dist-manifest.json](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/dist-manifest.json) | 21.4 KiB | `other` |
+| [sha256.sum](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/sha256.sum) | 643 B | `other` |
+| [source.tar.gz](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/source.tar.gz) | 1.4 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/cedar-policy/cedar/releases/download/cedar-policy-cli-v4.14.1/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 发行版状态
 
@@ -113,4 +113,4 @@ cedar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T06:37:45Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T07:23:26Z._
