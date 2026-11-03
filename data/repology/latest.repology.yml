@@ -62,7 +62,7 @@
   subrepo: main
   binname: cedar
   visiblename: cedar
-  version: 4.14.0
+  version: 4.14.1
   origversion: null
   status: outdated
   licenses:
