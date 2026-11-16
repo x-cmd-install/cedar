@@ -26,7 +26,7 @@ Total: **195,163** lines of code across **448** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,871 · **Forks**: 191 · **Open issues**: 551 · **Contributors**: 72
+- **Stars**: 1,876 · **Forks**: 192 · **Open issues**: 551 · **Contributors**: 72
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 6 | 42 | 15 | 4 | 10 | 33 |
-| last60d | 2026-09-16 | 6 | 68 | 24 | 6 | 22 | 59 |
-| 90d | 2026-08-17 | 9 | 106 | 26 | 10 | 26 | 93 |
-| last180d | 2026-05-19 | 18 | 234 | 29 | 18 | 34 | 206 |
-| 360d | 2025-11-20 | 44 | 579 | 31 | 35 | 51 | 463 |
-| last720d | 2024-11-25 | 56 | 1035 | 36 | 96 | 91 | 869 |
+| 30d | 2026-10-17 | 6 | 42 | 15 | 4 | 10 | 33 |
+| last60d | 2026-09-17 | 6 | 66 | 24 | 6 | 22 | 59 |
+| 90d | 2026-08-18 | 9 | 105 | 26 | 10 | 25 | 93 |
+| last180d | 2026-05-20 | 18 | 233 | 29 | 17 | 34 | 206 |
+| 360d | 2025-11-21 | 44 | 575 | 31 | 35 | 51 | 463 |
+| last720d | 2024-11-26 | 56 | 1033 | 36 | 96 | 91 | 866 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:14:23Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:24:08Z._
