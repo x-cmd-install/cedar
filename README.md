@@ -14,15 +14,15 @@ x install cedar
 
 ## Code insight
 
-Total: **195,506** lines of code across **449** files in the top 5 languages.
+Total: **196,009** lines of code across **449** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 188,990 | 11,501 | 16,452 | 357 |
+| Rust | 189,491 | 11,463 | 16,492 | 357 |
 | Json | 5,076 | 0 | 1 | 78 |
 | Toml | 534 | 49 | 87 | 11 |
 | Yaml | 299 | 0 | 2 | 1 |
-| Protobuf | 266 | 74 | 49 | 2 |
+| Protobuf | 268 | 84 | 49 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cedar-policy-cli-v4.15.0` (2026-11-16)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 1,885 · **Forks**: 195 · **Open issues**: 553 · **Contributors**: 73
+- **Stars**: 1,890 · **Forks**: 195 · **Open issues**: 553 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1936 · **Open PRs**: 37 · **Closed issues**: 398 · **Open issues**: 155 · **Commits**: 1594
+- **Releases**: 91 · **Merged PRs**: 1940 · **Open PRs**: 37 · **Closed issues**: 399 · **Open issues**: 154 · **Commits**: 1598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 6 | 49 | 17 | 3 | 11 | 42 |
-| last60d | 2026-09-20 | 9 | 75 | 25 | 7 | 23 | 68 |
-| 90d | 2026-08-21 | 12 | 107 | 27 | 11 | 25 | 102 |
-| last180d | 2026-05-23 | 21 | 243 | 30 | 18 | 35 | 215 |
-| 360d | 2025-11-24 | 47 | 583 | 32 | 36 | 52 | 472 |
-| last720d | 2024-11-29 | 59 | 1042 | 37 | 96 | 91 | 872 |
+| 30d | 2026-10-21 | 6 | 47 | 14 | 2 | 10 | 46 |
+| last60d | 2026-09-21 | 9 | 79 | 25 | 7 | 22 | 72 |
+| 90d | 2026-08-22 | 12 | 111 | 27 | 11 | 25 | 106 |
+| last180d | 2026-05-24 | 21 | 247 | 30 | 19 | 34 | 219 |
+| 360d | 2025-11-25 | 47 | 573 | 32 | 37 | 51 | 476 |
+| last720d | 2024-11-30 | 59 | 1046 | 37 | 97 | 90 | 876 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:12:01Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:42:24Z._
