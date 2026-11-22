@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 6 | 52 | 16 | 4 | 9 | 0 |
-| last60d | 2026-09-22 | 9 | 86 | 25 | 10 | 20 | 0 |
-| 90d | 2026-08-23 | 12 | 118 | 28 | 14 | 23 | 0 |
-| last180d | 2026-05-25 | 21 | 254 | 31 | 22 | 32 | 0 |
-| 360d | 2025-11-26 | 44 | 549 | 33 | 40 | 49 | 0 |
-| last720d | 2024-12-01 | 59 | 1053 | 38 | 100 | 88 | 883 |
+| 30d | 2026-10-23 | 6 | 50 | 16 | 4 | 9 | 53 |
+| last60d | 2026-09-23 | 9 | 84 | 25 | 9 | 19 | 79 |
+| 90d | 2026-08-24 | 12 | 115 | 28 | 14 | 23 | 113 |
+| last180d | 2026-05-26 | 21 | 253 | 31 | 22 | 32 | 226 |
+| 360d | 2025-11-27 | 27 | 549 | 33 | 40 | 49 | 483 |
+| last720d | 2024-12-02 | 59 | 1047 | 38 | 100 | 87 | 883 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:24:09Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:16:28Z._
