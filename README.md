@@ -14,11 +14,11 @@ x install cedar
 
 ## Code insight
 
-Total: **196,492** lines of code across **450** files in the top 5 languages.
+Total: **196,617** lines of code across **450** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 189,959 | 11,467 | 16,531 | 357 |
+| Rust | 190,084 | 11,468 | 16,539 | 357 |
 | Json | 5,091 | 0 | 1 | 79 |
 | Toml | 534 | 49 | 87 | 11 |
 | Yaml | 299 | 0 | 2 | 1 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cedar-policy-symcc-v0.9.1` (2026-11-25)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 1,904 · **Forks**: 199 · **Open issues**: 556 · **Contributors**: 76
+- **Stars**: 1,906 · **Forks**: 200 · **Open issues**: 556 · **Contributors**: 77
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1958 · **Open PRs**: 34 · **Closed issues**: 403 · **Open issues**: 153 · **Commits**: 1614
+- **Releases**: 92 · **Merged PRs**: 1960 · **Open PRs**: 33 · **Closed issues**: 405 · **Open issues**: 151 · **Commits**: 1616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 7 | 52 | 8 | 5 | 8 | 52 |
-| last60d | 2026-09-28 | 10 | 92 | 19 | 10 | 18 | 82 |
-| 90d | 2026-08-29 | 13 | 122 | 24 | 13 | 23 | 114 |
-| last180d | 2026-05-31 | 22 | 255 | 27 | 23 | 33 | 228 |
-| 360d | 2025-12-02 | 28 | 552 | 29 | 39 | 50 | 479 |
-| last720d | 2024-12-07 | 60 | 1052 | 34 | 99 | 86 | 881 |
+| 30d | 2026-10-29 | 7 | 48 | 8 | 6 | 5 | 54 |
+| last60d | 2026-09-29 | 10 | 93 | 18 | 11 | 17 | 84 |
+| 90d | 2026-08-30 | 13 | 124 | 23 | 14 | 22 | 116 |
+| last180d | 2026-06-01 | 22 | 254 | 26 | 24 | 32 | 230 |
+| 360d | 2025-12-03 | 28 | 549 | 28 | 40 | 49 | 481 |
+| last720d | 2024-12-08 | 60 | 1054 | 33 | 100 | 85 | 883 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cedar lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:07:54Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:16:55Z._
